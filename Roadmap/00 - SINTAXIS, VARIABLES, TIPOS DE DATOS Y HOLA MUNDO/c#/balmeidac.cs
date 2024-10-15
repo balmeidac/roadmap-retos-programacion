@@ -31,39 +31,39 @@
 ///               <param name="b">Segundo número</param>
 ///               <returns>La suma de ambos números</returns>
 ///                
-//                public int Sumar(int a, int b)
-//                {
-//                  return a + b;
-//                }
+                    public int Sumar(int a, int b)
+                    {
+                    return a + b;
+                    }
 //
 // * - Crea una variable (y una constante si el lenguaje lo soporta).
 //
 //      Variable de tipo cadena de texto.
-//      string reto = "Sintaxis, variables, tipos de datos y Hola mundo!";
+        string reto = "Sintaxis, variables, tipos de datos y Hola mundo!";
 //
 //      Constante tipo decimal, la letra m o M al final del valor numérico lo define como decimal.
-//      const decimal PI = 3.14159m
+        const decimal PI = 3.14159m
 //
 // * - Crea variables representando todos los tipos de datos primitivos 
 //     del lenguaje (cadenas de texto, enteros, booleanos...).
 //      
 //      Variable de tipo entero
-//      int edad = 25;
+        int edad = 25;
 //
 //      Variable de tipo cadena de texto
-//      string nombre = "David";
+        string nombre = "David";
 //
 //      Variable de tipo decimal
-//      decimal precio = 19.99m;
+        decimal precio = 19.99m;
 //
 //      Variable de tipo booleano
-//      bool esCientifico = true;
-//      boll esCientifico = false;
+        bool esCientifico = true;
+        bool esCientifico = false;
 //
 //      Variable de tipo double
-//      double velocidadLuz = 299792458.0
+        double velocidadLuz = 299792458.0
 //
 //  * - Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
 //  
-//      Console.WriteLine("¡Hola, Lenguaje de Programación C Sharp!");
+        Console.WriteLine("¡Hola, Lenguaje de Programación C Sharp!");
 //

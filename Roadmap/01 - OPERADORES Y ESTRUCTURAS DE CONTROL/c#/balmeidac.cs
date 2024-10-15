@@ -1,5 +1,5 @@
 /*
- * EJERCICIO 01: Operadores y Estructuras de Control
+ * EJERCICIO 01 OPERADORES Y ESTRUCTURAS DE CONTROL
  * - Crea ejemplos utilizando todos los tipos de operadores de tu lenguaje:
  *   Aritméticos, lógicos, de comparación, asignación, identidad, pertenencia, bits...
  *   (Ten en cuenta que cada lenguaje puede poseer unos diferentes) */
